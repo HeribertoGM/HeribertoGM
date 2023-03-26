@@ -119,9 +119,8 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=HeribertoGM&show_icons=true&count_private=true&theme=react" alt="HeribertoGM-commit-stats">
 
-<img width="49.5%" src="https://streak-stats.demolab.com/?user=HeribertoGM&theme=react" alt="HeribertoGM-streak-stats">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=HeribertoGM&show_icons=true&count_private=true&theme=react" alt="HeribertoGM-commit-stats"> <img width="49.5%" src="https://streak-stats.demolab.com/?user=HeribertoGM&theme=react" alt="HeribertoGM-streak-stats">
 
 ---
 
